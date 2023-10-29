@@ -1,4 +1,4 @@
-import Unlock from './components/Unlock'
+import Unlock from './components/Unlock/index'
 
 import {GlobalStyle} from './styledComponents'
 
